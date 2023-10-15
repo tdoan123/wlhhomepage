@@ -1,0 +1,2570 @@
+.version {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.version .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 5688px;
+  position: relative;
+}
+
+.version .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 756px;
+  top: 1823px;
+  left: 0;
+}
+
+.version .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 740px;
+  top: 16px;
+  left: 0;
+}
+
+.version .element {
+  width: 222px;
+  top: 0;
+  left: 1218px;
+  position: absolute;
+  height: 364px;
+  object-fit: cover;
+}
+
+.version .rectangle {
+  position: absolute;
+  width: 1260px;
+  height: 371px;
+  top: 361px;
+  left: 90px;
+  background-color: #004522;
+  border-radius: 24px;
+}
+
+.version .womenloveherbs-is {
+  position: absolute;
+  width: 864px;
+  top: 506px;
+  left: 288px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.version .text-wrapper {
+  position: absolute;
+  width: 463px;
+  top: 421px;
+  left: 489px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.version .group {
+  position: absolute;
+  width: 237px;
+  height: 261px;
+  top: 479px;
+  left: 0;
+}
+
+.version .img {
+  position: absolute;
+  width: 246px;
+  height: 154px;
+  top: 586px;
+  left: 0;
+}
+
+.version .text-wrapper-2 {
+  position: absolute;
+  width: 122px;
+  top: 206px;
+  left: 659px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .in-the {
+  position: absolute;
+  width: 768px;
+  top: 0;
+  left: 336px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36px;
+}
+
+.version .text-wrapper-3 {
+  position: absolute;
+  top: 232px;
+  left: 680px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #222222;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.version .group-2 {
+  position: absolute;
+  width: 96px;
+  height: 12px;
+  top: 285px;
+  left: 672px;
+}
+
+.version .ellipse {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 0;
+  left: 21px;
+  background-color: #004522;
+  border-radius: 6px;
+}
+
+.version .ellipse-2 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  background-color: #00452240;
+  border-radius: 6px;
+}
+
+.version .ellipse-3 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 0;
+  left: 84px;
+  background-color: #00452240;
+  border-radius: 6px;
+}
+
+.version .ellipse-4 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 0;
+  left: 63px;
+  background-color: #00452240;
+  border-radius: 6px;
+}
+
+.version .ellipse-5 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 0;
+  left: 42px;
+  background-color: #00452240;
+  border-radius: 6px;
+}
+
+.version .mask-group {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  top: 136px;
+  left: 689px;
+}
+
+.version .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 701px;
+  top: 0;
+  left: 0;
+}
+
+.version .rectangle-2 {
+  position: absolute;
+  width: 1440px;
+  height: 700px;
+  top: 0;
+  left: 0;
+  background-color: #fff7e9;
+}
+
+.version .p {
+  position: absolute;
+  width: 669px;
+  top: 390px;
+  left: 386px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.version .text-wrapper-4 {
+  top: 208px;
+  left: 347px;
+  font-family: "Merienda One", Helvetica;
+  color: #732501;
+  font-size: 84px;
+  line-height: normal;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.version .text-wrapper-5 {
+  position: absolute;
+  top: 316px;
+  left: 379px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .rectangle-3 {
+  position: absolute;
+  width: 115px;
+  height: 35px;
+  top: 70px;
+  left: 1235px;
+  background-color: #004522;
+  border-radius: 56px;
+}
+
+.version .text-wrapper-6 {
+  position: absolute;
+  top: 78px;
+  left: 1267px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .logo {
+  position: absolute;
+  width: 110px;
+  height: 92px;
+  top: 42px;
+  left: 90px;
+  object-fit: cover;
+}
+
+.version .overlap-group-wrapper {
+  position: absolute;
+  width: 162px;
+  height: 41px;
+  top: 534px;
+  left: 640px;
+}
+
+.version .div-wrapper {
+  position: relative;
+  width: 160px;
+  height: 41px;
+  background-color: #004522;
+  border-radius: 56px;
+}
+
+.version .text-wrapper-7 {
+  position: absolute;
+  width: 57px;
+  top: 11px;
+  left: 52px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .group-3 {
+  position: absolute;
+  width: 399px;
+  height: 449px;
+  top: 247px;
+  left: 0;
+}
+
+.version .group-4 {
+  position: absolute;
+  width: 417px;
+  height: 469px;
+  top: 232px;
+  left: 1023px;
+  background-image: url(./img/group-14.png);
+  background-size: 100% 100%;
+}
+
+.version .navbar {
+  position: absolute;
+  width: 505px;
+  height: 17px;
+  top: 79px;
+  left: 708px;
+}
+
+.version .text-wrapper-8 {
+  left: 0;
+  color: #004522;
+  position: absolute;
+  top: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .about-us {
+  position: absolute;
+  width: 59px;
+  height: 10px;
+  top: 3px;
+  left: 71px;
+}
+
+.version .text-wrapper-9 {
+  left: 163px;
+  color: #732501;
+  position: absolute;
+  top: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-10 {
+  left: 253px;
+  color: #732501;
+  position: absolute;
+  top: 0;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-11 {
+  position: absolute;
+  top: 0;
+  left: 367px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .line {
+  position: absolute;
+  width: 38px;
+  height: 2px;
+  top: 95px;
+  left: 708px;
+}
+
+.version .overlap-3 {
+  position: absolute;
+  width: 963px;
+  height: 745px;
+  top: 862px;
+  left: 515px;
+}
+
+.version .overlap-4 {
+  position: absolute;
+  width: 963px;
+  height: 745px;
+  top: 0;
+  left: 0;
+}
+
+.version .text-wrapper-12 {
+  position: absolute;
+  width: 597px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.version .image {
+  width: 483px;
+  height: 436px;
+  top: 11px;
+  left: 442px;
+  position: absolute;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+
+.version .rectangle-4 {
+  position: absolute;
+  width: 531px;
+  height: 87px;
+  top: 407px;
+  left: 432px;
+  background-color: #fff9ef;
+  filter: blur(49px);
+}
+
+.version .group-5 {
+  position: absolute;
+  width: 409px;
+  height: 298px;
+  top: 447px;
+  left: 425px;
+  background-color: #f6f9f7;
+  border-radius: 24px;
+}
+
+.version .text-wrapper-13 {
+  position: absolute;
+  top: 116px;
+  left: 25px;
+  font-family: "Aclonica", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-14 {
+  position: absolute;
+  width: 373px;
+  top: 150px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.version .img-2 {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 29px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.version .group-6 {
+  position: absolute;
+  width: 409px;
+  height: 298px;
+  top: 133px;
+  left: 0;
+  background-color: #f6f9f7;
+  border-radius: 24px;
+}
+
+.version .text-wrapper-15 {
+  position: absolute;
+  top: 124px;
+  left: 25px;
+  font-family: "Aclonica", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .one-of-the-platform {
+  position: absolute;
+  width: 360px;
+  top: 158px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.version .online-learning {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 35px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.version .group-7 {
+  position: absolute;
+  width: 409px;
+  height: 298px;
+  top: 447px;
+  left: 0;
+  background-color: #f6f9f7;
+  border-radius: 24px;
+}
+
+.version .text-wrapper-16 {
+  width: 360px;
+  top: 150px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  color: #333333;
+  font-size: 14px;
+  line-height: 24px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.version .text-wrapper-17 {
+  position: absolute;
+  width: 368px;
+  top: 846px;
+  left: 90px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+
+.version .text-wrapper-18 {
+  position: absolute;
+  width: 437px;
+  top: 1686px;
+  left: 502px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.version .overlap-5 {
+  position: absolute;
+  width: 499px;
+  height: 445px;
+  top: 1309px;
+  left: 0;
+}
+
+.version .element-aab-f {
+  width: 156px;
+  top: 81px;
+  left: 0;
+  position: absolute;
+  height: 364px;
+  object-fit: cover;
+}
+
+.version .group-8 {
+  position: absolute;
+  width: 409px;
+  height: 298px;
+  top: 0;
+  left: 90px;
+  background-color: #f6f9f7;
+  border-radius: 24px;
+}
+
+.version .overlap-6 {
+  position: absolute;
+  width: 156px;
+  height: 32px;
+  top: 1780px;
+  left: 643px;
+}
+
+.version .star {
+  left: 0;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  object-fit: cover;
+}
+
+.version .star-2 {
+  left: 31px;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  object-fit: cover;
+}
+
+.version .star-3 {
+  left: 62px;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  object-fit: cover;
+}
+
+.version .star-4 {
+  left: 93px;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  object-fit: cover;
+}
+
+.version .star-5 {
+  left: 124px;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  object-fit: cover;
+}
+
+.version .overlap-7 {
+  position: absolute;
+  width: 1629px;
+  height: 2847px;
+  top: 2818px;
+  left: -96px;
+}
+
+.version .overlap-8 {
+  position: absolute;
+  width: 1629px;
+  height: 2847px;
+  top: 0;
+  left: 0;
+}
+
+.version .image-2 {
+  width: 1440px;
+  height: 591px;
+  top: 176px;
+  left: 96px;
+  position: absolute;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+
+.version .rectangle-5 {
+  position: absolute;
+  width: 1620px;
+  height: 363px;
+  top: 79px;
+  left: 6px;
+  background-color: #fff9ef;
+  filter: blur(77px);
+}
+
+.version .rectangle-6 {
+  position: absolute;
+  width: 1604px;
+  height: 225px;
+  top: 654px;
+  left: 0;
+  background-color: #fff9ef;
+  filter: blur(49px);
+}
+
+.version .founder-CEO {
+  position: absolute;
+  top: 373px;
+  left: 187px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-19 {
+  position: absolute;
+  top: 373px;
+  left: 506px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-20 {
+  position: absolute;
+  top: 373px;
+  left: 825px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-21 {
+  position: absolute;
+  top: 373px;
+  left: 1144px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.version .rectangle-7 {
+  position: absolute;
+  width: 125px;
+  height: 41px;
+  top: 325px;
+  left: 186px;
+  border-radius: 56px;
+  border: 1px solid;
+  border-color: #004522;
+}
+
+.version .rectangle-8 {
+  position: absolute;
+  width: 133px;
+  height: 41px;
+  top: 325px;
+  left: 505px;
+  border-radius: 56px;
+  border: 1px solid;
+  border-color: #004522;
+}
+
+.version .rectangle-9 {
+  position: absolute;
+  width: 163px;
+  height: 41px;
+  top: 325px;
+  left: 824px;
+  border-radius: 56px;
+  border: 1px solid;
+  border-color: #004522;
+}
+
+.version .rectangle-10 {
+  position: absolute;
+  width: 137px;
+  height: 41px;
+  top: 325px;
+  left: 1143px;
+  border-radius: 56px;
+  border: 1px solid;
+  border-color: #004522;
+}
+
+.version .text-wrapper-22 {
+  position: absolute;
+  width: 92px;
+  top: 335px;
+  left: 203px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-23 {
+  position: absolute;
+  width: 105px;
+  top: 335px;
+  left: 519px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-24 {
+  position: absolute;
+  width: 126px;
+  top: 335px;
+  left: 843px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .text-wrapper-25 {
+  position: absolute;
+  width: 99px;
+  top: 335px;
+  left: 1162px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .horizontal-portrait-wrapper {
+  position: absolute;
+  width: 303px;
+  height: 310px;
+  top: 0;
+  left: 1143px;
+  background-color: #fff7e9;
+  border-radius: 24px;
+  border: 3px solid;
+  border-color: #f3deba;
+}
+
+.version .horizontal-portrait {
+  position: absolute;
+  width: 261px;
+  height: 280px;
+  top: 24px;
+  left: 19px;
+  object-fit: cover;
+}
+
+.version .young-beautiful-wrapper {
+  position: absolute;
+  width: 303px;
+  height: 310px;
+  top: 0;
+  left: 505px;
+  background-color: #fff7e9;
+  border-radius: 24px;
+  border: 3px solid;
+  border-color: #f3deba;
+}
+
+.version .young-beautiful {
+  position: absolute;
+  width: 242px;
+  height: 283px;
+  top: 23px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.version .waist-up-portrait-wrapper {
+  position: absolute;
+  width: 303px;
+  height: 310px;
+  top: 0;
+  left: 186px;
+  background-color: #fff7e9;
+  border-radius: 24px;
+  border: 3px solid;
+  border-color: #f3deba;
+}
+
+.version .waist-up-portrait {
+  position: absolute;
+  width: 201px;
+  height: 281px;
+  top: 23px;
+  left: 48px;
+  object-fit: cover;
+}
+
+.version .smiley-handsome-man-wrapper {
+  position: absolute;
+  width: 303px;
+  height: 310px;
+  top: 0;
+  left: 824px;
+  background-color: #fff7e9;
+  border-radius: 24px;
+  border: 3px solid;
+  border-color: #f3deba;
+}
+
+.version .smiley-handsome-man {
+  position: absolute;
+  width: 225px;
+  height: 283px;
+  top: 21px;
+  left: 36px;
+  object-fit: cover;
+}
+
+.version .overlap-wrapper {
+  position: absolute;
+  width: 1626px;
+  height: 921px;
+  top: 1926px;
+  left: 3px;
+}
+
+.version .overlap-9 {
+  position: relative;
+  height: 921px;
+}
+
+.version .image-3 {
+  position: absolute;
+  width: 1440px;
+  height: 591px;
+  top: 69px;
+  left: 93px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+
+.version .rectangle-11 {
+  position: absolute;
+  width: 1620px;
+  height: 197px;
+  top: 0;
+  left: 6px;
+  background-color: #fff9ef;
+  filter: blur(77px);
+}
+
+.version .rectangle-12 {
+  position: absolute;
+  width: 808px;
+  height: 363px;
+  top: 558px;
+  left: 398px;
+  background-color: #fff9ef;
+  filter: blur(133px);
+}
+
+.version .rectangle-13 {
+  position: absolute;
+  width: 1604px;
+  height: 88px;
+  top: 615px;
+  left: 0;
+  background-color: #fff9ef;
+  filter: blur(49px);
+}
+
+.version .year-enhancement {
+  position: absolute;
+  width: 520px;
+  height: 31px;
+  top: 1241px;
+  left: 187px;
+}
+
+.version .year-scaling-and {
+  position: absolute;
+  width: 406px;
+  height: 31px;
+  top: 1659px;
+  left: 914px;
+}
+
+.version .womenloveherbs-made {
+  position: absolute;
+  width: 485px;
+  height: 26px;
+  top: 2545px;
+  left: 567px;
+}
+
+.version .rectangle-14 {
+  position: absolute;
+  width: 1260px;
+  height: 300px;
+  top: 2149px;
+  left: 187px;
+  background-color: #ffe5c9;
+  border-radius: 24px;
+  border: 5px solid;
+  border-color: #f3deb9;
+}
+
+.version .join-us-on-this {
+  position: absolute;
+  width: 1056px;
+  top: 2221px;
+  left: 288px;
+  font-family: "Aclonica", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 54px;
+}
+
+.version .text-wrapper-26 {
+  position: absolute;
+  width: 784px;
+  top: 722px;
+  left: 428px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.version .group-9 {
+  position: absolute;
+  width: 162px;
+  height: 41px;
+  top: 2357px;
+  left: 737px;
+}
+
+.version .overlap-10 {
+  position: relative;
+  width: 160px;
+  height: 41px;
+  background-color: #732501;
+  border-radius: 56px;
+}
+
+.version .text-wrapper-27 {
+  position: absolute;
+  width: 63px;
+  top: 11px;
+  left: 49px;
+  font-family: "Rubik", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.version .mobile-app {
+  position: absolute;
+  width: 516px;
+  top: 1295px;
+  left: 187px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+
+.version .internationalization {
+  position: absolute;
+  width: 532px;
+  top: 1713px;
+  left: 914px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+
+.version .year-building-the {
+  position: absolute;
+  width: 463px;
+  height: 31px;
+  top: 847px;
+  left: 914px;
+}
+
+.version .platform-launch {
+  position: absolute;
+  width: 532px;
+  top: 901px;
+  left: 914px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+
+.version .vector {
+  position: absolute;
+  width: 820px;
+  height: 1069px;
+  top: 725px;
+  left: 96px;
+}
+
+.version .ellipse-wrapper {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 1263px;
+  left: 741px;
+  background-color: #004522;
+  border-radius: 13px;
+  filter: blur(18px);
+}
+
+.version .ellipse-6 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  top: 4px;
+  left: 4px;
+  background-color: #004522;
+  border-radius: 9px;
+}
+
+.version .group-10 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 922px;
+  left: 803px;
+  background-color: #004522;
+  border-radius: 13px;
+  filter: blur(18px);
+}
+
+.version .group-11 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 1673px;
+  left: 816px;
+  background-color: #004522;
+  border-radius: 13px;
+  filter: blur(18px);
+}
+
+.version .meditate-scaled {
+  position: absolute;
+  width: 426px;
+  height: 426px;
+  top: 1643px;
+  left: 198px;
+  object-fit: cover;
+}
+
+.version .element-2 {
+  position: absolute;
+  width: 385px;
+  height: 308px;
+  top: 897px;
+  left: 218px;
+  object-fit: cover;
+}
+
+.version .group-12 {
+  position: absolute;
+  width: 687px;
+  height: 17px;
+  top: 2601px;
+  left: 479px;
+}
+
+.version .text-wrapper-28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-29 {
+  position: absolute;
+  top: 0;
+  left: 86px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-30 {
+  position: absolute;
+  top: 0;
+  left: 194px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-31 {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-32 {
+  position: absolute;
+  top: 0;
+  left: 427px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .text-wrapper-33 {
+  position: absolute;
+  top: 0;
+  left: 600px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .group-wrapper {
+  position: absolute;
+  width: 90px;
+  height: 24px;
+  top: 2654px;
+  left: 771px;
+}
+
+.version .group-13 {
+  position: relative;
+  height: 24px;
+}
+
+.version .facebook {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.version .instagram {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  top: 0;
+  left: 32px;
+}
+
+.version .twitter-x {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 66px;
+}
+
+.version .text-wrapper-34 {
+  position: absolute;
+  top: 2738px;
+  left: 1342px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .group-14 {
+  position: absolute;
+  width: 355px;
+  height: 16px;
+  top: 2739px;
+  left: 186px;
+}
+
+.version .overlap-11 {
+  position: relative;
+  width: 353px;
+  height: 16px;
+}
+
+.version .copyright {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.version .copyright-2 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 1px;
+  left: 63px;
+}
+
+.version .line-2 {
+  position: absolute;
+  width: 1260px;
+  height: 1px;
+  top: 2711px;
+  left: 186px;
+  object-fit: cover;
+}
+
+.version .overlap-12 {
+  position: absolute;
+  width: 355px;
+  height: 390px;
+  top: 1228px;
+  left: 989px;
+}
+
+.version .frame {
+  position: absolute;
+  width: 114px;
+  height: 117px;
+  top: 5px;
+  left: 0;
+  overflow: hidden;
+}
+
+.version .overlap-13 {
+  position: relative;
+  height: 117px;
+}
+
+.version .group-15 {
+  position: absolute;
+  width: 114px;
+  height: 117px;
+  top: 0;
+  left: 0;
+}
+
+.version .group-16 {
+  position: absolute;
+  width: 27px;
+  height: 46px;
+  top: 40px;
+  left: 87px;
+}
+
+.version .group-17 {
+  height: 46px;
+}
+
+.version .group-18 {
+  width: 27px;
+  height: 46px;
+}
+
+.version .overlap-group-2 {
+  position: relative;
+  height: 46px;
+}
+
+.version .group-19 {
+  position: absolute;
+  width: 26px;
+  height: 46px;
+  top: 0;
+  left: 0;
+}
+
+.version .rectangle-15 {
+  position: absolute;
+  width: 11px;
+  height: 9px;
+  top: 25px;
+  left: 2px;
+}
+
+.version .group-20 {
+  position: absolute;
+  width: 7px;
+  height: 12px;
+  top: 11px;
+  left: 5px;
+  background-image: url(./img/clip-path-group-1.png);
+  background-size: 100% 100%;
+}
+
+.version .rectangle-16 {
+  position: absolute;
+  width: 3px;
+  height: 14px;
+  top: 9px;
+  left: 10px;
+}
+
+.version .rectangle-17 {
+  position: absolute;
+  width: 4px;
+  height: 18px;
+  top: 24px;
+  left: 13px;
+}
+
+.version .rectangle-18 {
+  position: absolute;
+  width: 5px;
+  height: 16px;
+  top: 9px;
+  left: 13px;
+}
+
+.version .rectangle-19 {
+  position: absolute;
+  width: 6px;
+  height: 10px;
+  top: 25px;
+  left: 7px;
+}
+
+.version .rectangle-20 {
+  position: absolute;
+  width: 12px;
+  height: 10px;
+  top: 10px;
+  left: 0;
+}
+
+.version .rectangle-21 {
+  position: absolute;
+  width: 8px;
+  height: 10px;
+  top: 35px;
+  left: 4px;
+}
+
+.version .rectangle-22 {
+  position: absolute;
+  width: 5px;
+  height: 11px;
+  top: 35px;
+  left: 7px;
+}
+
+.version .rectangle-23 {
+  position: absolute;
+  width: 6px;
+  height: 36px;
+  top: 0;
+  left: 9px;
+}
+
+.version .rectangle-24 {
+  position: absolute;
+  width: 1px;
+  height: 12px;
+  top: 34px;
+  left: 11px;
+}
+
+.version .rectangle-25 {
+  position: absolute;
+  width: 7px;
+  height: 16px;
+  top: 8px;
+  left: 13px;
+}
+
+.version .rectangle-26 {
+  position: absolute;
+  width: 6px;
+  height: 9px;
+  top: 25px;
+  left: 7px;
+}
+
+.version .rectangle-27 {
+  position: absolute;
+  width: 9px;
+  height: 6px;
+  top: 35px;
+  left: 2px;
+}
+
+.version .rectangle-28 {
+  position: absolute;
+  width: 12px;
+  height: 16px;
+  top: 8px;
+  left: 13px;
+}
+
+.version .rectangle-29 {
+  position: absolute;
+  width: 2px;
+  height: 12px;
+  top: 25px;
+  left: 14px;
+}
+
+.version .rectangle-30 {
+  position: absolute;
+  width: 6px;
+  height: 12px;
+  top: 9px;
+  left: 5px;
+}
+
+.version .rectangle-31 {
+  position: absolute;
+  width: 8px;
+  height: 9px;
+  top: 34px;
+  left: 4px;
+}
+
+.version .rectangle-32 {
+  position: absolute;
+  width: 12px;
+  height: 11px;
+  top: 24px;
+  left: 14px;
+}
+
+.version .rectangle-33 {
+  position: absolute;
+  width: 2px;
+  height: 11px;
+  top: 25px;
+  left: 13px;
+}
+
+.version .rectangle-34 {
+  position: absolute;
+  width: 5px;
+  height: 8px;
+  top: 34px;
+  left: 7px;
+}
+
+.version .rectangle-35 {
+  position: absolute;
+  width: 3px;
+  height: 7px;
+  top: 34px;
+  left: 9px;
+}
+
+.version .rectangle-36 {
+  position: absolute;
+  width: 3px;
+  height: 9px;
+  top: 25px;
+  left: 11px;
+}
+
+.version .group-21 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 24px;
+  left: 84px;
+}
+
+.version .group-22 {
+  height: 17px;
+}
+
+.version .overlap-group-3 {
+  position: relative;
+  width: 17px;
+  height: 17px;
+}
+
+.version .group-23 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.version .group-24 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 0;
+  left: 0;
+}
+
+.version .group-25 {
+  position: absolute;
+  width: 51px;
+  height: 31px;
+  top: 0;
+  left: 34px;
+}
+
+.version .group-26 {
+  height: 31px;
+}
+
+.version .overlap-group-4 {
+  position: relative;
+  width: 51px;
+  height: 31px;
+}
+
+.version .group-27 {
+  position: absolute;
+  width: 50px;
+  height: 27px;
+  top: 2px;
+  left: 0;
+}
+
+.version .group-28 {
+  position: absolute;
+  width: 51px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
+
+.version .group-29 {
+  position: absolute;
+  width: 16px;
+  height: 18px;
+  top: 18px;
+  left: 19px;
+  background-image: url(./img/group-6.png);
+  background-size: 100% 100%;
+}
+
+.version .group-30 {
+  position: absolute;
+  width: 31px;
+  height: 43px;
+  top: 35px;
+  left: 0;
+}
+
+.version .group-31 {
+  height: 43px;
+}
+
+.version .group-32 {
+  width: 31px;
+  height: 43px;
+}
+
+.version .overlap-14 {
+  position: relative;
+  height: 43px;
+}
+
+.version .group-33 {
+  position: absolute;
+  width: 28px;
+  height: 41px;
+  top: 2px;
+  left: 2px;
+}
+
+.version .group-34 {
+  position: absolute;
+  width: 31px;
+  height: 43px;
+  top: 0;
+  left: 0;
+}
+
+.version .overlap-group-5 {
+  position: relative;
+  width: 30px;
+  height: 43px;
+}
+
+.version .rectangle-37 {
+  position: absolute;
+  width: 8px;
+  height: 14px;
+  top: 22px;
+  left: 9px;
+}
+
+.version .rectangle-38 {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 22px;
+  left: 3px;
+}
+
+.version .rectangle-39 {
+  position: absolute;
+  width: 12px;
+  height: 14px;
+  top: 24px;
+  left: 5px;
+}
+
+.version .rectangle-40 {
+  position: absolute;
+  width: 2px;
+  height: 16px;
+  top: 8px;
+  left: 13px;
+}
+
+.version .rectangle-41 {
+  position: absolute;
+  width: 16px;
+  height: 7px;
+  top: 30px;
+  left: 0;
+}
+
+.version .rectangle-42 {
+  position: absolute;
+  width: 8px;
+  height: 18px;
+  top: 8px;
+  left: 8px;
+}
+
+.version .rectangle-43 {
+  position: absolute;
+  width: 2px;
+  height: 14px;
+  top: 0;
+  left: 16px;
+}
+
+.version .rectangle-44 {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 9px;
+  left: 15px;
+}
+
+.version .rectangle-45 {
+  position: absolute;
+  width: 8px;
+  height: 13px;
+  top: 6px;
+  left: 16px;
+}
+
+.version .rectangle-46 {
+  position: absolute;
+  width: 6px;
+  height: 14px;
+  top: 12px;
+  left: 16px;
+}
+
+.version .rectangle-47 {
+  position: absolute;
+  width: 9px;
+  height: 12px;
+  top: 15px;
+  left: 16px;
+}
+
+.version .rectangle-48 {
+  position: absolute;
+  width: 6px;
+  height: 23px;
+  top: 21px;
+  left: 14px;
+}
+
+.version .rectangle-49 {
+  position: absolute;
+  width: 3px;
+  height: 13px;
+  top: 5px;
+  left: 14px;
+}
+
+.version .rectangle-50 {
+  position: absolute;
+  width: 5px;
+  height: 15px;
+  top: 2px;
+  left: 17px;
+}
+
+.version .rectangle-51 {
+  position: absolute;
+  width: 2px;
+  height: 7px;
+  top: 6px;
+  left: 17px;
+}
+
+.version .rectangle-52 {
+  position: absolute;
+  width: 8px;
+  height: 13px;
+  top: 13px;
+  left: 8px;
+}
+
+.version .rectangle-53 {
+  position: absolute;
+  width: 4px;
+  height: 13px;
+  top: 14px;
+  left: 11px;
+}
+
+.version .rectangle-54 {
+  position: absolute;
+  width: 9px;
+  height: 11px;
+  top: 16px;
+  left: 7px;
+}
+
+.version .rectangle-55 {
+  position: absolute;
+  width: 4px;
+  height: 9px;
+  top: 19px;
+  left: 16px;
+}
+
+.version .rectangle-56 {
+  position: absolute;
+  width: 4px;
+  height: 17px;
+  top: 10px;
+  left: 14px;
+}
+
+.version .group-35 {
+  position: absolute;
+  width: 12px;
+  height: 7px;
+  top: 20px;
+  left: 16px;
+  background-image: url(./img/clip-path-group.png);
+  background-size: 100% 100%;
+}
+
+.version .rectangle-57 {
+  position: absolute;
+  width: 8px;
+  height: 11px;
+  top: 24px;
+  left: 17px;
+}
+
+.version .rectangle-58 {
+  position: absolute;
+  width: 13px;
+  height: 11px;
+  top: 27px;
+  left: 17px;
+}
+
+.version .rectangle-59 {
+  position: absolute;
+  width: 4px;
+  height: 15px;
+  top: 20px;
+  left: 13px;
+}
+
+.version .rectangle-60 {
+  position: absolute;
+  width: 5px;
+  height: 14px;
+  top: 25px;
+  left: 16px;
+}
+
+.version .rectangle-61 {
+  position: absolute;
+  width: 9px;
+  height: 10px;
+  top: 29px;
+  left: 9px;
+}
+
+.version .group-36 {
+  position: absolute;
+  width: 14px;
+  height: 16px;
+  top: 77px;
+  left: 16px;
+}
+
+.version .group-37 {
+  height: 16px;
+}
+
+.version .overlap-group-6 {
+  position: relative;
+  width: 14px;
+  height: 16px;
+}
+
+.version .group-38 {
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 1px;
+  left: 0;
+}
+
+.version .group-39 {
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 0;
+  left: 0;
+}
+
+.version .group-40 {
+  position: absolute;
+  width: 46px;
+  height: 32px;
+  top: 86px;
+  left: 30px;
+}
+
+.version .group-41 {
+  height: 32px;
+}
+
+.version .overlap-15 {
+  position: relative;
+  width: 46px;
+  height: 31px;
+}
+
+.version .group-42 {
+  position: absolute;
+  width: 44px;
+  height: 30px;
+  top: 1px;
+  left: 1px;
+}
+
+.version .overlap-16 {
+  position: relative;
+  height: 30px;
+}
+
+.version .group-43 {
+  position: absolute;
+  width: 27px;
+  height: 29px;
+  top: 1px;
+  left: 18px;
+}
+
+.version .overlap-group-7 {
+  position: relative;
+  height: 29px;
+}
+
+.version .rectangle-62 {
+  position: absolute;
+  width: 14px;
+  height: 5px;
+  top: 11px;
+  left: 0;
+}
+
+.version .rectangle-63 {
+  position: absolute;
+  width: 13px;
+  height: 4px;
+  top: 10px;
+  left: 6px;
+}
+
+.version .rectangle-64 {
+  position: absolute;
+  width: 12px;
+  height: 10px;
+  top: 2px;
+  left: 9px;
+}
+
+.version .rectangle-65 {
+  position: absolute;
+  width: 9px;
+  height: 7px;
+  top: 5px;
+  left: 6px;
+}
+
+.version .rectangle-66 {
+  position: absolute;
+  width: 8px;
+  height: 10px;
+  top: 0;
+  left: 5px;
+}
+
+.version .rectangle-67 {
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: 10px;
+  left: 9px;
+}
+
+.version .rectangle-68 {
+  position: absolute;
+  width: 17px;
+  height: 19px;
+  top: 9px;
+  left: 10px;
+}
+
+.version .rectangle-69 {
+  position: absolute;
+  width: 14px;
+  height: 13px;
+  top: 15px;
+  left: 3px;
+}
+
+.version .rectangle-70 {
+  position: absolute;
+  width: 12px;
+  height: 9px;
+  top: 16px;
+  left: 1px;
+}
+
+.version .rectangle-71 {
+  position: absolute;
+  width: 11px;
+  height: 9px;
+  top: 14px;
+  left: 10px;
+}
+
+.version .rectangle-72 {
+  position: absolute;
+  width: 10px;
+  height: 8px;
+  top: 4px;
+  left: 10px;
+}
+
+.version .rectangle-73 {
+  position: absolute;
+  width: 9px;
+  height: 4px;
+  top: 10px;
+  left: 6px;
+}
+
+.version .rectangle-74 {
+  position: absolute;
+  width: 10px;
+  height: 4px;
+  top: 15px;
+  left: 5px;
+}
+
+.version .rectangle-75 {
+  position: absolute;
+  width: 5px;
+  height: 2px;
+  top: 11px;
+  left: 4px;
+}
+
+.version .rectangle-76 {
+  position: absolute;
+  width: 10px;
+  height: 3px;
+  top: 8px;
+  left: 0;
+}
+
+.version .rectangle-77 {
+  position: absolute;
+  width: 5px;
+  height: 4px;
+  top: 5px;
+  left: 1px;
+}
+
+.version .rectangle-78 {
+  position: absolute;
+  width: 5px;
+  height: 7px;
+  top: 2px;
+  left: 6px;
+}
+
+.version .rectangle-79 {
+  position: absolute;
+  width: 6px;
+  height: 12px;
+  top: 16px;
+  left: 28px;
+}
+
+.version .rectangle-80 {
+  position: absolute;
+  width: 8px;
+  height: 2px;
+  top: 13px;
+  left: 27px;
+}
+
+.version .rectangle-81 {
+  position: absolute;
+  width: 13px;
+  height: 3px;
+  top: 10px;
+  left: 31px;
+}
+
+.version .rectangle-82 {
+  position: absolute;
+  width: 8px;
+  height: 3px;
+  top: 16px;
+  left: 18px;
+}
+
+.version .rectangle-83 {
+  position: absolute;
+  width: 6px;
+  height: 14px;
+  top: 0;
+  left: 15px;
+}
+
+.version .rectangle-84 {
+  position: absolute;
+  width: 3px;
+  height: 6px;
+  top: 2px;
+  left: 13px;
+}
+
+.version .rectangle-85 {
+  position: absolute;
+  width: 3px;
+  height: 1px;
+  top: 13px;
+  left: 21px;
+}
+
+.version .rectangle-86 {
+  position: absolute;
+  width: 5px;
+  height: 2px;
+  top: 9px;
+  left: 22px;
+}
+
+.version .group-44 {
+  position: absolute;
+  width: 46px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
+
+.version .group-45 {
+  position: absolute;
+  width: 18px;
+  height: 16px;
+  top: 85px;
+  left: 75px;
+}
+
+.version .overlap-group-8 {
+  position: relative;
+  width: 18px;
+  height: 16px;
+}
+
+.version .group-46 {
+  position: absolute;
+  width: 17px;
+  height: 16px;
+  top: 0;
+  left: 1px;
+}
+
+.version .group-47 {
+  position: absolute;
+  width: 18px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.version .frame-2 {
+  position: absolute;
+  width: 84px;
+  height: 78px;
+  top: 20px;
+  left: 7px;
+}
+
+.version .rectangle-87 {
+  position: absolute;
+  width: 203px;
+  height: 352px;
+  top: 9px;
+  left: 113px;
+  border-radius: 24px;
+  border: 3px solid;
+  border-color: #ffd9b2;
+  transform: rotate(5.57deg);
+}
+
+.version .rectangle-88 {
+  position: absolute;
+  width: 203px;
+  height: 352px;
+  top: 26px;
+  left: 97px;
+  background-color: #fff7f0;
+  border-radius: 24px;
+  border: 4px solid;
+  border-color: #ffd9b2;
+}
+
+.version .women-loveherbs {
+  position: absolute;
+  width: 100px;
+  height: 11px;
+  top: 57px;
+  left: 112px;
+}
+
+.version .herb-remedy {
+  width: 72px;
+  height: 14px;
+  top: 167px;
+  position: absolute;
+  left: 113px;
+}
+
+.version .herb-plant {
+  width: 58px;
+  height: 11px;
+  top: 247px;
+  position: absolute;
+  left: 113px;
+}
+
+.version .line-3 {
+  position: absolute;
+  width: 50px;
+  height: 2px;
+  top: 38px;
+  left: 174px;
+}
+
+.version .ellipse-7 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 338px;
+  left: 185px;
+  background-color: #ffd9b1;
+  border-radius: 14.5px;
+}
+
+.version .rectangle-89 {
+  position: absolute;
+  width: 77px;
+  height: 69px;
+  top: 77px;
+  left: 114px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-90 {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  top: 184px;
+  left: 114px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-91 {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  top: 264px;
+  left: 114px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-92 {
+  position: absolute;
+  width: 77px;
+  height: 69px;
+  top: 77px;
+  left: 199px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-93 {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  top: 184px;
+  left: 173px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-94 {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  top: 264px;
+  left: 173px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-95 {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  top: 184px;
+  left: 232px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .rectangle-96 {
+  position: absolute;
+  width: 53px;
+  height: 48px;
+  top: 264px;
+  left: 232px;
+  background-color: #ffeed2;
+  border-radius: 5px;
+}
+
+.version .frame-3 {
+  position: absolute;
+  width: 43px;
+  height: 54px;
+  top: 82px;
+  left: 131px;
+}
+
+.version .frame-4 {
+  position: absolute;
+  width: 52px;
+  height: 55px;
+  top: 87px;
+  left: 212px;
+}
+
+.version .frame-5 {
+  position: absolute;
+  width: 47px;
+  height: 39px;
+  top: 188px;
+  left: 116px;
+}
+
+.version .frame-6 {
+  position: absolute;
+  width: 36px;
+  height: 41px;
+  top: 189px;
+  left: 181px;
+}
+
+.version .frame-7 {
+  position: absolute;
+  width: 35px;
+  height: 38px;
+  top: 191px;
+  left: 241px;
+}
+
+.version .frame-8 {
+  position: absolute;
+  width: 24px;
+  height: 40px;
+  top: 268px;
+  left: 130px;
+}
+
+.version .frame-9 {
+  position: absolute;
+  width: 79px;
+  height: 132px;
+  top: 258px;
+  left: 276px;
+}
+
+.version .frame-10 {
+  position: absolute;
+  width: 37px;
+  height: 36px;
+  top: 268px;
+  left: 182px;
+}
+
+.version .frame-11 {
+  position: absolute;
+  width: 16px;
+  height: 31px;
+  top: 272px;
+  left: 252px;
+}
+
+.version .text-wrapper-35 {
+  position: absolute;
+  width: 437px;
+  top: 2658px;
+  left: 91px;
+  font-family: "Merienda One", Helvetica;
+  font-weight: 400;
+  color: #732501;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 57.6px;
+}
+
+.version .group-48 {
+  position: absolute;
+  width: 409px;
+  height: 298px;
+  top: 995px;
+  left: 90px;
+  background-color: #f6f9f7;
+  border-radius: 24px;
+}
+
+.version .text-wrapper-36 {
+  top: 122px;
+  font-family: "Aclonica", Helvetica;
+  font-weight: 400;
+  color: #004522;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  left: 25px;
+}
+
+.version .blockchain {
+  width: 360px;
+  top: 156px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  left: 25px;
+}
+
+.version .blockchain-2 {
+  width: 54px;
+  height: 54px;
+  top: 33px;
+  object-fit: cover;
+  position: absolute;
+  left: 25px;
+}
